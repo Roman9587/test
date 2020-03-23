@@ -48,7 +48,8 @@ body{
 /*                   IMG                      */
 .img{
     border: 10px solid #ffffff;
-    vertical-align: top;
+}
+.img img{
     width: 100%;
 }
 /*                   INFO                   */
