@@ -18,7 +18,6 @@ body{
     font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
     background-color: #e8e8e8;
     background: url(./img/Ellipse_1_copy.png) 300px 100px  no-repeat ;
-    position: relative;
 }
 .container{
     width: 841px;
@@ -114,5 +113,5 @@ body{
 }
 .button a:hover{
     box-shadow: 0 0 3px 3px #73c2bd;
-    transition: .2s;
+    transition: 0.2s;
 }
